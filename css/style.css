@@ -1,0 +1,30 @@
+@font-face
+{
+	font-family: orbitron;
+	src: url("../fonts/orbitron/Orbitron-Medium.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: orbitron;
+	font-weight: bold;
+	src: url("../fonts/orbitron/Orbitron-Bold.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: lato;
+	src: url("../fonts/lato/Lato-Medium.woff") format("woff");
+}
+
+body
+{
+	font-family: orbitron;
+	cursor: default;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
